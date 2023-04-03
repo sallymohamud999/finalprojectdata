@@ -1,0 +1,15 @@
+{
+	"name": "DestinationDataset_m8j",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "FakenewsSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"table": "AzureBlobStorageFile"
+		}
+	}
+}
