@@ -1,0 +1,12 @@
+{
+	"name": "FakenewsBlobStorage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"connectionString": "DefaultEndpointsProtocol=https;AccountName=fakenewsdetector;EndpointSuffix=core.windows.net;",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFDRENBOTcyLTAzRTAtNEZGRC1CM0EzLTM0MjZERjdDQ0U1OF9iOTU3MTM0Yi0yYTQyLTQ2YzQtOGM5ZS1hY2Y1ZTQ3ZTc0YmQiDQp9"
+		}
+	}
+}
