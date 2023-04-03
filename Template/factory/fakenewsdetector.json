@@ -1,0 +1,9 @@
+{
+	"name": "fakenewsdetector",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b881cfb8-4f26-4194-8d06-862812828456",
+		"tenantId": "5f29e8d2-b7e5-419e-bf05-6a9e1b19f72b"
+	}
+}
